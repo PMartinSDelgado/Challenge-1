@@ -1,0 +1,53 @@
+header{
+    
+    color: goldenrod;
+    text-align: center;
+    height: 150px;
+    margin-top: 50px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+main{
+    display: flex;
+    text-align: center;
+}
+.input-text{
+    margin-top: 10px;
+    margin-left: 500px;
+}
+.input-text-area{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+h6{
+    color: gold;
+    margin-left: 600px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+::placeholder{
+    color: blue;
+    font-size: 1.5em;
+    font-style: italic;
+}
+.boton1{
+    margin-top: 5px auto;
+    margin-left: 600px;
+}
+.boton2{
+    margin-top: 5px auto;
+    margin-left: 250px;
+}
+footer{
+    margin-top: 90px;
+    margin-left: 30px;
+    padding: 20px;
+}
+.footer{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin: 20px;
+    margin-left: 0px;
+}
